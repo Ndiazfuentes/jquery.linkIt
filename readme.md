@@ -6,11 +6,6 @@ Version
 ------------
 0.1.0
 
-Usage
-------------
-    <script>
-    </script>
-
 Vendors
 -----------
 jQuery - [https://jquery.com]()
